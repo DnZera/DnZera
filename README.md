@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/DnZera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DnZera&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnZera&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnZera&layout=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
